@@ -31,12 +31,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Phalcon\\Mvc\\Router\\Annotations": "Phalcon/Mvc/Router/Annotations"
+      "Phalcon\\Mvc\\Router\\Annotations\\": "Phalcon/Mvc/Router/Annotations"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Phalcon\\Mvc\\Router\\Annotations": "Phalcon/Mvc/Router/Annotations"
+      "Phalcon\\Mvc\\Router\\Annotations\\": "Phalcon/Mvc/Router/Annotations"
     }
   }
 }
