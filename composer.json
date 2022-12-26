@@ -1,0 +1,42 @@
+{
+  "name": "SageITSolutions/phalcon-micro-annotations",
+  "description": "Sage IT Component for Phalcon - Annotations Parser for annotation routes",
+  "keywords": [
+    "framework",
+    "phalcon",
+    "micro",
+    "annotation"
+  ],
+  "authors": [
+    {
+      "name": "Daniel S. Davis",
+      "email": "daniel.davis@sageitsolutions.net"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/SageITSolutions/phalcon-micro-annotations/issues",
+    "source": "https://github.com/SageITSolutions/phalcon-micro-annotations",
+    "forum": "https://forum.phalconphp.com/",
+    "docs": "https://docs.phalconphp.com/",
+    "irc": "irc://irc.freenode.org/phalconphp",
+    "rss": "https://blog.phalconphp.com/rss",
+    "email": "daniel.davis@sageitsolutions.net"
+  },
+  "require": {
+    "php": ">=7.0",
+    "ext-phalcon": ">=4.0.0"
+  },
+  "require-dev": {
+    "codeception/verify": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Phalcon\\Mvc\\Router\\Annotations": "Phalcon/Mvc/Router/Annotations"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Phalcon\\Mvc\\Router\\Annotations": "Phalcon/Mvc/Router/Annotations"
+    }
+  }
+}
