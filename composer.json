@@ -22,6 +22,7 @@
     "rss": "https://blog.phalconphp.com/rss",
     "email": "daniel.davis@sageitsolutions.net"
   },
+  "license": "MIT",
   "require": {
     "php": ">=7.0",
     "ext-phalcon": ">=4.0.0 || >= 5.0"
