@@ -7,6 +7,10 @@
 
   <h1 align="center">Phalcon Micro-Annotation</h1>
 
+  [![Latest Version](https://img.shields.io/github/release/SageITSolutions/phalcon-micro-annotations.svg?style=flat-square)](https://github.com/SageITSolutions/phalcon-micro-annotations/releases)
+[![Total Downloads](https://img.shields.io/packagist/dt/sageit/phalcon-micro-annotations.svg?style=flat-square)](https://packagist.org/packages/sageit/phalcon-micro-annotations)
+[![Software License](https://img.shields.io/packagist/l/sageit/phalcon-micro-annotations.svg?style=flat-square)](LICENSE)
+
   <p align="center">
     Allows you to use annotations for routing on Phalcon Micro Applications. While the built in Phalcon class for an annotation based router works on full suite Phalcon apps, Micro uses a different mounting methodology and does not support this.  The Micro-Annotation Router leverages the build in Micro mounting method while allowing for annotation parsing with the caching method of your choice.
     <br />
