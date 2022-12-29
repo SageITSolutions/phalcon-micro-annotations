@@ -1,30 +1,26 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="#">
-    <img src=".readme/logo.png" alt="Logo" width="445" height="120">
+<div align="center">
+  <!-- PROJECT LOGO -->
+  <a href="https://github.com/SageITSolutions/phalcon-micro-annotations">
+    <img src="images/logo.png" alt="Logo" width="445" height="120">
   </a>
 
   <h1 align="center">Phalcon Micro-Annotation</h1>
 
-  [![Latest Version](https://img.shields.io/github/release/SageITSolutions/phalcon-micro-annotations.svg?style=flat-square)](https://github.com/SageITSolutions/phalcon-micro-annotations/releases)
-[![Total Downloads](https://img.shields.io/packagist/dt/sageit/phalcon-micro-annotations.svg?style=flat-square)](https://packagist.org/packages/sageit/phalcon-micro-annotations)
-[![Software License](https://img.shields.io/packagist/l/sageit/phalcon-micro-annotations.svg?style=flat-square)](LICENSE)
+  [![Latest Stable Version](http://poser.pugx.org/sageit/phalcon-micro-annotations/v?style=plastic)](https://packagist.org/packages/sageit/phalcon-micro-annotations) 
+  [![Total Downloads](http://poser.pugx.org/sageit/phalcon-micro-annotations/downloads?style=plastic)](https://packagist.org/packages/sageit/phalcon-micro-annotations) 
+  [![License](http://poser.pugx.org/sageit/phalcon-micro-annotations/license?style=plastic)](https://packagist.org/packages/sageit/phalcon-micro-annotations)
+  [![PHP Version Require](http://poser.pugx.org/sageit/phalcon-micro-annotations/require/php?style=plastic)](https://packagist.org/packages/sageit/phalcon-micro-annotations)
+  [![Phalcon Version](https://img.shields.io/packagist/dependency-v/sageit/phalcon-micro-annotations/ext-phalcon?label=Phalcon&logo=Phalcon%20Version&style=plastic)](https://packagist.org/packages/sageit/phalcon-micro-annotations)
 
-  <p align="center">
+  <p>
     Allows you to use annotations for routing on Phalcon Micro Applications. While the built in Phalcon class for an annotation based router works on full suite Phalcon apps, Micro uses a different mounting methodology and does not support this.  The Micro-Annotation Router leverages the build in Micro mounting method while allowing for annotation parsing with the caching method of your choice.
-    <br />
-    <a href="#"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    ·
-    <a href="/issues">Report Bug</a>
-    ·
-    <a href="/issues">Request Feature</a>
   </p>
-</p>
 
+  **[Explore the docs »](https://github.com/SageITSolutions/phalcon-micro-annotations)**
 
+  **[Report Bug](https://github.com/SageITSolutions/phalcon-micro-annotations/issues)** ·
+  **[Request Feature](https://github.com/SageITSolutions/phalcon-micro-annotations/issues)**
+</div>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
