@@ -1,7 +1,7 @@
 <div align="center">
   <!-- PROJECT LOGO -->
   <a href="https://github.com/SageITSolutions/phalcon-micro-annotations">
-    <img src="images/logo.png" alt="Logo" width="445" height="120">
+    <img src=".readme/logo.png" alt="Logo" width="445" height="120">
   </a>
 
   <h1 align="center">Phalcon Micro-Annotation</h1>
